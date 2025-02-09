@@ -1,5 +1,4 @@
-# sign-language-detector-python
+# SignFlow
+Track sign language using python and OpenCV
 
-Sign language detector with Python, OpenCV and Mediapipe !
-
-[![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
+Credits and code: [![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
